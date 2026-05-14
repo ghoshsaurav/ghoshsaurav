@@ -1,7 +1,6 @@
 # Saurav Ghosh
-PhD student in Computer Science at Washington University in St. Louis.
 
-I am a Graduate Research Assistant in the VIBE Lab, where I work with Prof. Alvitta Ottley on a research project connected to Waters Corporation (NYSE: WAT) focused on improving the company’s proprietary ApexTrack algorithm.
+I am a PhD student in Computer Science at Washington University in St. Louis and a Graduate Research Assistant in the VIBE Lab, where I work with Prof. Alvitta Ottley on a research project connected to Waters Corporation (NYSE: WAT) focused on improving the company’s proprietary ApexTrack algorithm.
 
 In the past, I have worked with Prof. Raj Jain on quantum cryptographic primitives and secure networked systems. Before starting my PhD, I completed my Master’s in Applied Computer Science at Southeast Missouri State University, where I worked with Prof. Reshmi Mitra. My thesis proposed a blockchain-based access control framework for P2P networks. I received the Outstanding MS in Applied Computer Science Award, given to only one graduating student per academic year in recognition of academic excellence and contributions within the program cohort.
 
