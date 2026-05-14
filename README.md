@@ -1,10 +1,13 @@
 # Saurav Ghosh
+PhD student in Computer Science at Washington University in St. Louis.
 
-I am a PhD student in Computer Science at Washington University in St. Louis.
+I am a Graduate Research Assistant in the VIBE Lab, where I work with Prof. Alvitta Ottley on a research project connected to Waters Corporation (NYSE: WAT) focused on improving the company’s proprietary ApexTrack algorithm.
 
-My research focuses on human-centered AI, scientific visualization, uncertainty quantification, signal analysis, quantum security, blockchain, and decentralized systems.
+In the past, I have worked with Prof. Raj Jain on quantum cryptographic primitives and secure networked systems. Before starting my PhD, I completed my Master’s in Applied Computer Science at Southeast Missouri State University, where I worked with Prof. Reshmi Mitra. My thesis proposed a blockchain-based access control framework for P2P networks. I received the Outstanding MS in Applied Computer Science Award, given to only one graduating student per academic year in recognition of academic excellence and contributions within the program cohort.
 
-I am currently a Graduate Research Assistant in the VIBE Lab, working on uncertainty-aware peak detection for GC-MS/chromatographic data.
+I earned my Bachelor’s in Computer Science from BRAC University in Bangladesh, where I worked with Prof. Md. Golam Rabiul Alam. My thesis explored prostate cancer detection using deep learning and transfer learning.
+
+Outside of research, I am a Volunteer Mentor with the Code to PhD Mentorship Program, where I support underrepresented students applying to PhD programs.
 
 ## Links
 
@@ -12,4 +15,3 @@ I am currently a Graduate Research Assistant in the VIBE Lab, working on uncerta
 - Google Scholar: https://scholar.google.com/citations?user=rCNOYsoAAAAJ
 - ORCID: https://orcid.org/0000-0003-2492-6935
 - LinkedIn: https://www.linkedin.com/in/ghoshsaurav71/
-- GitHub Pages portfolio: https://ghoshsaurav.github.io/
